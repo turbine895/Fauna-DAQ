@@ -7,4 +7,4 @@
 ~ Release form : DLL<br>
 
 ~ Dependancy : NI-DAQmx (HW/SW)<br>
-~ Target use : API for Real-Time Stream/Process<br>
+~ Target use : Real-Time Stream/Process<br>
